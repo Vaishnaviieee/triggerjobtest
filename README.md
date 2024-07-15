@@ -1,7 +1,7 @@
 This repo is for testing purpose. 
 We are executing this branch through jenkins pipeline
 <h1>Pulling code from github using Jenkins</h1>
-Go on Jenkins Dashboard
+<n>Go on Jenkins Dashboard</n>
 create a new job
 select freestyle project and give it a name
 Go to Configure and enter the link of repo and clone the repo
